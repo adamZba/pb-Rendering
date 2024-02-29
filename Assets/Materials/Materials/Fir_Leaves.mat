@@ -157,7 +157,7 @@ Material:
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
     - _Cull: 0
-    - _Cutoff: 0.023
+    - _Cutoff: 0.062
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
@@ -190,8 +190,8 @@ Material:
     - _WorkflowMode: 0
     - _ZWrite: 1
     m_Colors:
-    - _BaseColor: {r: 0.5525269, g: 0.6981132, b: 0.49724102, a: 1}
-    - _Color: {r: 0.55252683, g: 0.6981132, b: 0.49724102, a: 1}
+    - _BaseColor: {r: 0.5156512, g: 0.6226415, b: 0.3729975, a: 1}
+    - _Color: {r: 0.5156512, g: 0.62264144, b: 0.37299746, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
